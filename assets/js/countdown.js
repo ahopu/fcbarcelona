@@ -1,4 +1,4 @@
-const countdown = new Date("Oct 18, 2020 1:00:00");
+const countdown = new Date("feb 08, 2021 2:00:00");
 
 function getRemainingTime(endtime) {
   const milliseconds = Date.parse(endtime) - Date.parse(new Date());
